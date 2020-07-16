@@ -33,12 +33,22 @@ Focus and care with User Experience is the secret of success.
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
+   
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Webcomponents</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webcomponents.svg">
+      </td>  
+       <td width="25%" align="center">
+        <span>Redux</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>  
+       <td width="25%" align="center">
         <span>Redux-saga</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux-saga.svg">
-      </td>      
+      </td>  
     </tr>
+    
     <tr valign="top">
      <td width="25%" align="center">
         <span>CSS3</span><br><br>
@@ -52,13 +62,13 @@ Focus and care with User Experience is the secret of success.
         <span>Stylus</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/stylus.svg">
       </td>
-      </tr>
+     </tr>
+      
      <tr valign="top">
       <td width="25%" align="center">
         <span>Gatsby</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
-      </td>      
-      
+      </td> 
       <td width="25%" align="center">
         <span>NPM</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
