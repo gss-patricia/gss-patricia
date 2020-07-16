@@ -95,3 +95,10 @@ Focus and care with User Experience is the secret of success.
 
 ### See my complete knowledge here -> 
  [![Linkedin Badge](https://img.shields.io/badge/-gss--patricia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patr%C3%ADcia-gomes-dos-santos-silva%E2%80%8B-5304b233/)](https://www.linkedin.com/in/patr%C3%ADcia-gomes-dos-santos-silva%E2%80%8B-5304b233/)
+ 
+ 
+ ### My free time
+ 
+ In my free time I'm plants mommy and mommy's two kids 🐻
+
+I love camping and nature!
