@@ -82,7 +82,7 @@ Focus and care with User Experience is the secret of success.
       </td> 
       <td width="25%" align="center">
         <span>Nextjs</span><br><br>
-        <img height="64px" src=" https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
      <td width="25%" align="center">
         <span>Gatsby</span><br><br>
