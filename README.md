@@ -102,3 +102,7 @@ Focus and care with User Experience is the secret of success.
  In my spare time I am a plant mom 🌿 and mom are two children 🐻
  
  I love to travel, meet new people, cultures, camping and nature!!
+
+I love to travel, meet new people, cultures, camping and nature !!
+
+Time well research is time to learn new things, stay with family, take care of body and mind
