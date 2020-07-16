@@ -63,9 +63,9 @@ Focus and care with User Experience is the secret of success.
      </tr>      
      <tr valign="top">
       <td width="25%" align="center">
-        <span>Gatsby</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
-      </td> 
+        <span>BEM Metodology</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bem.svg">
+      </td>
       <td width="25%" align="center">
         <span>NPM</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
@@ -74,6 +74,20 @@ Focus and care with User Experience is the secret of success.
         <span>Azure</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>
+    </tr>
+   <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td> 
+      <td width="25%" align="center">
+        <span>Nextjs</span><br><br>
+        <img height="64px" src=" https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+     <td width="25%" align="center">
+        <span>Gatsby</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+      </td> 
     </tr>
   </tbody>
 </table>
