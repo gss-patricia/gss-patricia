@@ -105,4 +105,4 @@ Focus and care with User Experience is the secret of success.
 
 I love to travel, meet new people, cultures, camping and nature !!
 
-Time well research is time to learn new things, stay with family, take care of body and mind
+Time well invested is learning new things, staying with the family, taking care of the body and mind!
