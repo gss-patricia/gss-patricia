@@ -2,6 +2,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-gss--patricia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patr%C3%ADcia-gomes-dos-santos-silva%E2%80%8B-5304b233/)](https://www.linkedin.com/in/patr%C3%ADcia-gomes-dos-santos-silva%E2%80%8B-5304b233/) [![Twitter Badge](https://img.shields.io/badge/-@paty_go-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paty_go
 )](https://twitter.com/paty_go)
+[![Blog Badge](https://img.shields.io/badge/Articles-black)](https://www.linkedin.com/in/patr%C3%ADcia-gomes-dos-santos-silva%E2%80%8B-5304b233/detail/recent-activity/posts/)
 
 I ❤️ developing software !
 
