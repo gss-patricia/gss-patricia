@@ -32,8 +32,7 @@ Focus and care with User Experience is the secret of success.
         <span>React JS</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-    </tr>
-   
+    </tr>   
     <tr valign="top">
       <td width="25%" align="center">
         <span>Webcomponents</span><br><br>
@@ -47,8 +46,7 @@ Focus and care with User Experience is the secret of success.
         <span>Redux-saga</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux-saga.svg">
       </td>  
-    </tr>
-    
+    </tr>    
     <tr valign="top">
      <td width="25%" align="center">
         <span>CSS3</span><br><br>
@@ -62,8 +60,7 @@ Focus and care with User Experience is the secret of success.
         <span>Stylus</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/stylus.svg">
       </td>
-     </tr>
-      
+     </tr>      
      <tr valign="top">
       <td width="25%" align="center">
         <span>Gatsby</span><br><br>
