@@ -103,6 +103,4 @@ Focus and care with User Experience is the secret of success.
  
  I love to travel, meet new people, cultures, camping and nature!!
 
-I love to travel, meet new people, cultures, camping and nature !!
-
 Time well invested is learning new things, staying with the family, taking care of the body and mind!
