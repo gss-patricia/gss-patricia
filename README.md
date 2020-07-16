@@ -99,6 +99,6 @@ Focus and care with User Experience is the secret of success.
  
  ### My free time
  
- In my free time I'm plants mommy and mommy's two kids 🐻
-
-I love camping and nature!
+ In my spare time I am a plant mom 🌿 and mom are two children 🐻
+ 
+ I love to travel, meet new people, cultures, camping and nature!!
