@@ -8,7 +8,7 @@ I ❤️ developing software !
 
 :computer: Front-end Developer, currently based in Brazil, at AB-inbev. 
 
-I am an enthusiastic technical person who loves technology. I have been working as web developer / frontend since 2010, but I started my studies since 2006 in the web design course.
+I am an enthusiastic technical person who loves technology. I have been working as web developer / frontend since 2010, but I started my studies since 2006 in the web design course and did freelance work.
 
 I believe HTML, CSS and Javascript is the base of web and best practices in software development is entertaining.
 
