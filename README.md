@@ -6,7 +6,7 @@
 
 I ❤️ developing software !
 
-:computer: Front-end Developer, currently based in Portugal, at Ustwo. 
+:computer: Fullstack Developer, currently based in Portugal, at Ustwo. 
 
 I am an enthusiastic technical person who loves technology. I have been working as web developer / frontend since 2010, but I started my studies and work in software development since 2006.
 
